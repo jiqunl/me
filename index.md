@@ -1,8 +1,12 @@
 ### About me
 
-You can use the [editor on GitHub](https://github.com/jiqunl/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an **Assistant Professor of Data Science** at the University of Oklahoma - Norman Campus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and computational economics, and seeks to apply the knowledge learned from people interacting with information in search recommendation, user education and intelligent nudging. 
+
+My recent studies/projects include: 1) Behavioral Economics + Information Retrieval + Machine Learning: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes; 2) State-aware Task Support System: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. 
+
+
 
 ### Markdown
 
