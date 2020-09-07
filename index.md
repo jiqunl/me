@@ -1,5 +1,5 @@
 ### About me
-I am an **Assistant Professor of Data Science** at the University of Oklahoma - Norman. I received my PhD in Information Science from Rutgers University.
+I am an **Assistant Professor of Data Science** at the University of Oklahoma. I received my PhD in Information Science from Rutgers University.
 
 My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and computational economics, and seeks to apply the knowledge learned from people interacting with information in search recommendation, user education and intelligent nudging. My recent studies/projects include: 1) **Behavioral Economics + Information Retrieval + Machine Learning**: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes; 2) **State-aware Task Support System**: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. 
 
