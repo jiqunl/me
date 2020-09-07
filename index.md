@@ -1,16 +1,12 @@
 ### About me
 
-I am an **Assistant Professor of Data Science** at the University of Oklahoma - Norman Campus.
+I am an **Assistant Professor of Data Science** at the University of Oklahoma - Norman Campus. I received my PhD in Information Science from Rutgers University.
 
-My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and computational economics, and seeks to apply the knowledge learned from people interacting with information in search recommendation, user education and intelligent nudging. 
+My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and computational economics, and seeks to apply the knowledge learned from people interacting with information in search recommendation, user education and intelligent nudging. My recent studies/projects include: 1) Behavioral Economics + Information Retrieval + Machine Learning: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes; 2) State-aware Task Support System: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. 
 
-My recent studies/projects include: 1) Behavioral Economics + Information Retrieval + Machine Learning: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes; 2) State-aware Task Support System: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. 
+### Announcement
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am looking for self-motivated students with strong mathematical background and experiences in ML/DL and/or Web programming to join my group at OU. Research opportunities are available at both undergraduate and graduate levels. If you are interested in working with me, feel free to email me with your CV and a brief description of your previous research experiences & current research interests. 
 
 ```markdown
 Syntax highlighted code block
