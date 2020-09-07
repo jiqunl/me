@@ -17,10 +17,12 @@ I am looking for self-motivated students with interests/experiences in data scie
 ### Publications
 #### Book
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)]
+
 #### Refereed Journal Article
 - Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
 - **Liu, J.**, Wang, Y., Mandal, S., & Shah, C. (2019). Exploring the immediate and short-term effects of peer advice and cognitive authority on Web search behavior. *Information Processing and Management*, 56(3), 1010-1025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S030645731830236X)]
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
+
 #### Refereed Conference Paper
 - **Liu, J.** & Han, F. (2020). Investigating reference dependence effects on user search interaction and satisfaction. In *Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval* (pp. 1141-1150). Xi’an, China. **(SIGIR2020)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401085)]
 - **Liu, J.**, Sarkar, S., & Shah, C. (2020). Identifying and predicting the states of complex search tasks. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval* (pp. 193-202). Vancouver, Canada. **(CHIIR2020)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3343413.3377976)]
@@ -33,11 +35,14 @@ I am looking for self-motivated students with interests/experiences in data scie
 - Liu, C., **Liu, J.**, & Wei, Y. (2017). Scroll up or down? Using wheel activity as an indicator of browsing strategy across different contextual factors. In *Proceedings of the ACM SIGIR 2017 Conference on Conference Human Information Interaction and Retrieval* (pp.333-336). Oslo, Norway. **(CHIIR2017)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3020165.3022146)]
 - Wang, Y., **Liu, J.**, Mandal, S., & Shah, C. (2017). Search successes and failures in query segments and search tasks: A field study. In *Proceedings of the 80th Annual Meeting of the Association for Information Science and Technology*, 54(1), 436-445. **(ASIS&T2017)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.2017.14505401047)]
 - Li, Y., **Liu, J.** (2017). Chinese individual investors’ information-seeking behavior on the Web. (10 pages). Paper presented at *iConference 2017*, Wuhan, China. **(iConference2017)** [[Paper](https://www.ideals.illinois.edu/bitstream/handle/2142/96685/1.11_225_Li-Chinese%20Individual%20Investors%27%20Information-Seeking%20Behavior.pdf?sequence=1&isAllowed=y)]
+
 #### Refereed Conference Poster
 - Wang, Y., **Liu, J.**, Mandal, S., & Shah, C. (2018). Persuasion by peer or expert for Web search. In *Proceedings of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing* (pp. 225-228). Jersey City, NJ. **(CSCW2018)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3272973.3274061)]
 - **Liu, J.**, & Wang, Y. (2016). Information worth spreading: An exploration of information sharing from social Q&A to other social media platforms. In *Proceedings of the 79th Annual Meeting of the Association for Information Science and Technology*, 53(1), 1- 5. **(ASIS&T2016)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.2016.14505301112)]
+
 #### Refereed Conference Demo
 - Mitsui, M., **Liu, J.**, & Shah, C. (2018). Coagmento: Past, present, and future of an individual and collaborative information seeking platform. In *Proceedings of the 2018 Conference on Human Information Interaction and Retrieval* (pp. 325-328). New Brunswick, NJ. **(CHIIR2018)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3176349.3176896)]
+
 #### Doctoral Consortia
 - **Liu, J.** (2019). Characterizing the stages of complex tasks. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval* (pp. 1445-1445). Paris, France. Mentors: Dr. Gareth Jones and Dr. Noriko Kando. **(SIGIR2019)**
 - **Liu, J.** (2019). A reference-dependent model of search evaluation. In *Proceedings of the ACM SIGIR 2019 Conference on Human Information Interaction and Retrieval* (pp. 405-408). Glasgow, UK. Mentor: Dr. Diane Kelly. **(CHIIR2019)**
