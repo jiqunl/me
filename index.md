@@ -3,7 +3,7 @@ I am an **Assistant Professor of Data Science** at the University of Oklahoma. I
 
 My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and computational economics, and seeks to apply the knowledge learned from people interacting with information in search recommendation, user education and intelligent nudging. My recent studies/projects include: 1) **Behavioral Economics + Information Retrieval + Machine Learning**: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes; 2) **State-aware Task Support System**: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. My recent CV can be found at [here](https://drive.google.com/file/d/1SEg_iZSxrHYaKr3guyMeRyeUQRMC-HQ-/view).
 
-[GoogleScholar](https://scholar.google.com/citations?user=SSkPeogAAAAJ&hl=en)|[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)|[LinkedIn](https://www.linkedin.com/in/jiqun-liu/)
+[[GoogleScholar](https://scholar.google.com/citations?user=SSkPeogAAAAJ&hl=en)|[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)|[LinkedIn](https://www.linkedin.com/in/jiqun-liu/)]
 
 **[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research interests and experiences. 
 #### Recent updates:
