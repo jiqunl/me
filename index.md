@@ -6,7 +6,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 [[GoogleScholar](https://scholar.google.com/citations?user=SSkPeogAAAAJ&hl=en)]
 [[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)]
 [[LinkedIn](https://www.linkedin.com/in/jiqun-liu/)]
-[[Twitter](https://twitter.com/home?lang=en)]
+[[Twitter](https://twitter.com/JiqunL)]
 
 **[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research experience. 
 #### Recent updates:
