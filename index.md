@@ -7,7 +7,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 [[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)]
 [[LinkedIn](https://www.linkedin.com/in/jiqun-liu/)]
 
-**[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research interests and experiences. 
+**[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research experience. 
 #### Recent updates:
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
