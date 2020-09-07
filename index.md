@@ -6,7 +6,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 
 ### Announcement
 
-I am looking for self-motivated students with strong mathematical background and experiences in ML/DL and/or Web programming to join my group at OU. Research opportunities are available at both undergraduate and graduate levels. If you are interested in working with me, feel free to email me with your CV and a brief description of your previous research experiences & current research interests. 
+I am looking for self-motivated students with interests/experiences in IR, ML/DL, recommender systems, and/or user studies to join my research group at OU. Research opportunities are available at both undergraduate and graduate levels. If you are interested in working with me, feel free to email me with your CV and a brief description of your previous research experiences & current research interests. 
 
 ```markdown
 Syntax highlighted code block
