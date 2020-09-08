@@ -22,9 +22,9 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)]
 
 #### Refereed Journal Article
-- Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
-- **Liu, J.**, Wang, Y., Mandal, S., & Shah, C. (2019). Exploring the immediate and short-term effects of peer advice and cognitive authority on Web search behavior. *Information Processing and Management*, 56(3), 1010-1025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S030645731830236X)]
-- **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
+- Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
+- **Liu, J.**, Wang, Y., Mandal, S., & Shah, C. (2019). Exploring the immediate and short-term effects of peer advice and cognitive authority on Web search behavior. *Information Processing and Management*, 56(3), 1010-1025. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S030645731830236X)]
+- **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
 - **Liu, J.** & Han, F. (2020). Investigating reference dependence effects on user search interaction and satisfaction. In *Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval* (pp. 1141-1150). Xi’an, China. **(SIGIR2020)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401085)]
