@@ -51,15 +51,18 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 - **Liu, J.** (2019). A reference-dependent model of search evaluation. In *Proceedings of the ACM SIGIR 2019 Conference on Human Information Interaction and Retrieval* (pp. 405-408). Glasgow, UK. Mentor: Dr. Diane Kelly. **(CHIIR2019)**
 
 ### Service
+
 #### Journal Reviewer
 - Journal of the Association for Information Science and Technology
 - Information Processing and Management
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+
 #### Program Committee Member
 - ACM CHIIR (2020, 2021)
 - ASIS&T Annual Meeting (2018, 2019, 2020)
 - ALISE (2020)
 - iConference (2020)
+
 #### Organizing and Chairing Activities
 - iConference 2021 workshop co-Chair
 - ASIS&T Research Engagement Committee Member 2020-2023
