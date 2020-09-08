@@ -1,4 +1,4 @@
-### About me
+### About Me
 I am an **Assistant Professor of Data Science** at the University of Oklahoma. I hold a PhD in Information Science from Rutgers iSchool.
 
 My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and cognitive psychology, and seeks to apply the knowledge learned about people interacting with information in search recommendation, user education and intelligent nudging. My recent studies/projects include: 1) **Behavioral Economics + Information Retrieval + Machine Learning**: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes; 2) **State-aware Task Support System**: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. My recent CV can be found at [here](https://drive.google.com/file/d/1SEg_iZSxrHYaKr3guyMeRyeUQRMC-HQ-/view).
@@ -9,7 +9,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 [[Twitter](https://twitter.com/JiqunL)]
 
 **[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research experience. 
-#### Recent news:
+#### Recent News:
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
 - **Full paper** "Investigating reference-dependence effects on user search interaction and satisfaction: A behavioral economics perspective" accepted by [SIGIR2020](https://sigir.org/sigir2020/).
@@ -49,3 +49,19 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 #### Doctoral Consortia
 - **Liu, J.** (2019). Characterizing the stages of complex tasks. In *Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval* (pp. 1445-1445). Paris, France. Mentors: Dr. Gareth Jones and Dr. Noriko Kando. **(SIGIR2019)**
 - **Liu, J.** (2019). A reference-dependent model of search evaluation. In *Proceedings of the ACM SIGIR 2019 Conference on Human Information Interaction and Retrieval* (pp. 405-408). Glasgow, UK. Mentor: Dr. Diane Kelly. **(CHIIR2019)**
+
+### Service
+#### Journal Reviewer
+- Journal of the Association for Information Science and Technology
+- Information Processing and Management
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+#### Program Committee Member
+- ACM CHIIR (2020, 2021)
+- ASIS&T Annual Meeting (2018, 2019, 2020)
+- ALISE (2020)
+- iConference (2020)
+#### Organizing and Chairing Activities
+- iConference 2021 workshop co-Chair
+- ASIS&T Research Engagement Committee Member 2020-2023
+- ASIS&T Annual Meeting 2020 SIG USE Symposium Chair
+- ASIS&T SIG USE Communications Officer 2017-2019
