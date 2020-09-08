@@ -9,7 +9,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 [[Twitter](https://twitter.com/JiqunL)]
 
 **[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research experience. 
-#### Recent updates:
+#### Recent news:
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
 - **Full paper** "Investigating reference-dependence effects on user search interaction and satisfaction: A behavioral economics perspective" accepted by [SIGIR2020](https://sigir.org/sigir2020/).
