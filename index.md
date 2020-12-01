@@ -1,14 +1,18 @@
 ### About Me
 I am an **Assistant Professor of Data Science** at the University of Oklahoma. I hold a PhD in Information Science from Rutgers iSchool.
 
-My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and cognitive psychology, and seeks to apply the knowledge learned about people interacting with information in adaptive recommendation, user education and intelligent nudging. My recent studies/projects include: 1) **Behavioral Economics + Information Retrieval + Machine Learning**: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes, with the ultimate goal of making intelligent systems more sensitive to human biases and concerns; 2) **State-aware Task Support System**: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. My recent CV can be found at [here](https://drive.google.com/file/d/1FgDr_403GdW-D6eH15iumnAkKfypKlaF/view?usp=sharing).
+My research focuses on the intersection of human-computer interaction (HCI), interactive information seeking/retrieval, and cognitive psychology, and seeks to apply the knowledge learned about people interacting with information in adaptive recommendation, user education and intelligent nudging. My recent studies/projects include: 1) **Cognitive Pscyhology + Information Retrieval + Machine Learning**: investigating the impacts of users' systematic cognitive biases on their search decision-making and evaluations of information seeking/search episodes, with the ultimate goal of making intelligent systems more sensitive to human biases and concerns; 2) **State-aware Adaptive IR System**: identifying the states of complex tasks that contextualize human-information interaction and applying the knowledge about states in developing and evaluating adaptive system recommendations. My recent CV can be found at [here](https://drive.google.com/file/d/1FgDr_403GdW-D6eH15iumnAkKfypKlaF/view?usp=sharing).
 
 [[GoogleScholar](https://scholar.google.com/citations?user=SSkPeogAAAAJ&hl=en)]
 [[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)]
 [[LinkedIn](https://www.linkedin.com/in/jiqun-liu/)]
 [[Twitter](https://twitter.com/JiqunL)]
 
-**[*Note to Perspective Students:*]** I am looking for self-motivated students with interests/experiences in data science, ML/DL, information retrieval, and/or user studies to work with me. If you are interested, feel free to email me with your CV and a brief description of your research experience. 
+**[*Note to Perspective Students:*]** I am actively looking for self-motivated students to join my human-machine intelligence group at OU and work on interesting cutting-edge problems in information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds:
+- Human-Computer Interaction, Interactive Information Seeking/Retrieval, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
+- Machine Learning, Recommender System, Natural Language Processing (NLP), or Text/Data Mining.
+
+If you are interested, please email me at (jiqunliu@ou.edu) with your with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
