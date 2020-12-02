@@ -12,7 +12,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 - Human-Computer Interaction, Interactive Information Seeking/Retrieval, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
 - Machine Learning, Recommender System, Natural Language Processing (NLP), or Text/Data Mining.
 
-If you are interested, please email me at (jiqunliu@ou.edu) with your with your CV and a brief description of your previous research experiences & current research interests.
+If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
