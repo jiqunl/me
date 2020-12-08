@@ -64,6 +64,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 #### Program Committee Member
+- ACM SIGIR (2021)
 - ACM CHIIR (2020, 2021)
 - ASIS&T Annual Meeting (2018, 2019, 2020)
 - ALISE (2020)
