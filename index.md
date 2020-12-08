@@ -14,6 +14,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
+- **Full paper** "Interest development, knowledge learning, and interactive IR: Toward a state-based approach to search as learning" accepted by [CHIIR2021](https://acm-chiir.github.io/chiir2021/)
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
 - **Full paper** "Investigating reference-dependence effects on user search interaction and satisfaction: A behavioral economics perspective" accepted by [SIGIR2020](https://sigir.org/sigir2020/).
@@ -31,6 +32,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- **Liu, J.** & Jung, Y. J. (2021). Interest development, knowledge learning, and interactive IR: Toward a state-based approach to search as learning. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. Virtual event, Australia. **(CHIIR2021)**
 - **Liu, J.** & Han, F. (2020). Investigating reference dependence effects on user search interaction and satisfaction. In *Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval* (pp. 1141-1150). Xi’an, China. **(SIGIR2020)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401085)]
 - **Liu, J.**, Sarkar, S., & Shah, C. (2020). Identifying and predicting the states of complex search tasks. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval* (pp. 193-202). Vancouver, Canada. **(CHIIR2020)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3343413.3377976)]
 - **Liu, J.**, & Shah, C. (2019). Proactive identification of query failure. In *Proceedings of the Association for Information Science and Technology*, 56(1), 176-185. **(ASIS&T 2019 Best student long paper award)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.15)]
