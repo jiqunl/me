@@ -73,6 +73,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - iConference (2020)
 
 #### Other Professional Services
+- SIGIR 2021 Registration Chair
 - Senior Member, SIGIR Artifact Evaluation Committee, 2021-
 - National Science Foundation (NSF) Reviewer 2021
 - iConference 2021 workshop co-Chair
