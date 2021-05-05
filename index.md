@@ -60,23 +60,29 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 
 ### Service
 
+#### Organizing and Chairing Activities
+- SIGIR 2021 Registration Chair
+-	iConference 2021 Workshop Co-Chair
+-	ASIS&T Research Engagement Committee Member 2020-2023
+-	ASIS&T 2020 SIG USE Symposium Co-Chair
+- ASIS&T SIG USE Communications Officer 2017-2019
+
+#### Grant Review Service
+- National Science Foundation (NSF) Reviewer 2021
+
 #### Journal Reviewer
 - Journal of the Association for Information Science and Technology
 - Information Processing and Management
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 #### Program Committee Member
-- ACM SIGIR (2021)
-- ACM CHIIR (2020, 2021)
-- ASIS&T Annual Meeting (2018, 2019, 2020, 2021)
-- ALISE (2020)
-- iConference (2020)
+-	ACM SIGIR (2021)
+-	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
+-	ACM CHIIR (2020, 2021)
+-	ASIS&T AM (2018, 2019, 2020, 2021)
+-	ALISE (2020)
+-	iConference (2020)
+-	SIGIR 2019 EARS workshop
+-	ACM Multimedia Conference 2019 SALMM workshop
+-	CIKM 2020 IWILDS workshop
 
-#### Other Professional Services
-- SIGIR 2021 Registration Chair
-- Senior Member, SIGIR Artifact Evaluation Committee, 2021-
-- National Science Foundation (NSF) Reviewer 2021
-- iConference 2021 workshop co-Chair
-- ASIS&T Research Engagement Committee Member 2020-2023
-- ASIS&T Annual Meeting 2020 SIG USE Symposium Chair
-- ASIS&T SIG USE Communications Officer 2017-2019
