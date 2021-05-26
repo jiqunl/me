@@ -61,6 +61,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 ### Service
 
 #### Organizing and Chairing Activities
+- CIKM 2021 IWILDS Workshop Organizing Committee Member
 - SIGIR 2021 Registration Chair
 -	iConference 2021 Workshop Co-Chair
 -	ASIS&T Research Engagement Committee Member 2020-2023
