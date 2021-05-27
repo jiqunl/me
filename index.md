@@ -8,7 +8,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 [[LinkedIn](https://www.linkedin.com/in/jiqun-liu/)]
 [[Twitter](https://twitter.com/JiqunL)]
 
-**[*Note to Perspective Students:*]** I am actively looking for self-motivated students to join my human-machine intelligence group at OU and work on interesting cutting-edge problems in information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds:
+**[*Note to Perspective Students:*]** I am actively looking for self-motivated students to join my Human-Computer Interaction and Recommendation group at OU and work on interesting cutting-edge problems in information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds:
 - Human-Computer Interaction, Interactive Information Seeking/Retrieval, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
 - Machine Learning, Recommender System, Natural Language Processing (NLP), or Text/Data Mining.
 
