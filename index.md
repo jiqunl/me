@@ -14,7 +14,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
-- **External grant:** My project "CRII:III: A bias-aware approach to modeling users in interactive information retrieval" is funded by **National Science Foundation (NSF)**! The project's homepage is [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106152&HistoricalAwards=false).
+- **Grant:** My project "CRII:III: A bias-aware approach to modeling users in interactive information retrieval" is funded by **National Science Foundation (NSF)**! The project's homepage is [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106152&HistoricalAwards=false).
 - **Journal paper** "Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "Interest development, knowledge learning, and interactive IR: Toward a state-based approach to search as learning" accepted by [CHIIR2021](https://acm-chiir.github.io/chiir2021/)
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
