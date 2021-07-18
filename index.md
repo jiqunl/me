@@ -79,6 +79,8 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 #### Journal Reviewer
 - Journal of the Association for Information Science and Technology
 - Information Processing and Management
+- Journal of Information Science
+- Aslib Journal of Information Management
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 #### Program Committee Member
