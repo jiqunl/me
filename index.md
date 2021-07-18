@@ -26,6 +26,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 
 ### Grants & Awards
 - **NSF:** CRII:III: A bias-aware approach to modeling users in interactive information retrieval. ($174,959, **PI: Jiqun Liu**).
+- **JFF Summer 2021:** Junior Faculty Fellowship Program Award, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
 
 ### Publications
 #### Book
