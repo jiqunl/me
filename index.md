@@ -54,6 +54,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - Li, Y., **Liu, J.** (2017). Chinese individual investors’ information-seeking behavior on the Web. (10 pages). Paper presented at *iConference 2017*, Wuhan, China. **(iConference2017)** [[Paper](https://www.ideals.illinois.edu/bitstream/handle/2142/96685/1.11_225_Li-Chinese%20Individual%20Investors%27%20Information-Seeking%20Behavior.pdf?sequence=1&isAllowed=y)]
 
 #### Refereed Conference Poster
+- Wang, B. & **Liu, J.** (2021). Extracting implicit search task states from explicit behavioral signals in complex search tasks. In *Proceedings of the 84th Annual Meeting of the Association for Information Science and Technology*. **(ASIS&T2021)**
 - Wang, Y., **Liu, J.**, Mandal, S., & Shah, C. (2018). Persuasion by peer or expert for Web search. In *Proceedings of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing* (pp. 225-228). Jersey City, NJ. **(CSCW2018)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3272973.3274061)]
 - **Liu, J.**, & Wang, Y. (2016). Information worth spreading: An exploration of information sharing from social Q&A to other social media platforms. In *Proceedings of the 79th Annual Meeting of the Association for Information Science and Technology*, 53(1), 1- 5. **(ASIS&T2016)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.2016.14505301112)]
 
