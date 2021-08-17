@@ -88,7 +88,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 #### Program Committee Member
 -	ACM SIGIR (2021)
 -	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
--	ACM CHIIR (2020, 2021)
+-	ACM CHIIR (2020, 2021, 2022)
 -	ASIS&T AM (2018, 2019, 2020, 2021)
 -	ALISE (2020)
 -	iConference (2020)
