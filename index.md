@@ -86,6 +86,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 #### Program Committee Member
+-	WSDM (2022)
 -	ACM SIGIR (2021)
 -	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
 -	ACM CHIIR (2020, 2021, 2022)
