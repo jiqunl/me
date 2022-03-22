@@ -71,7 +71,9 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 ### Service
 
 #### Organizing and Chairing Activities
-- CIKM 2021 IWILDS Workshop Organizing Committee Member
+- SIGIR 2022 IWILDS Workshop Organizing Committee Member 
+- Chair-Elect, ASIS&T SIG AI 2022 -
+- CIKM 2021 IWILDS Workshop Organizing Committee Member 
 - SIGIR 2021 Registration Chair
 -	iConference 2021 Workshop Co-Chair
 -	ASIS&T Research Engagement Committee Member 2020-2023
@@ -89,6 +91,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 #### Program Committee Member
+- ACM SIGKDD (2022)
 -	WSDM (2022)
 -	ACM SIGIR (2021)
 -	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
