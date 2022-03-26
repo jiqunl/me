@@ -14,6 +14,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
+- **Full paper** "Leveraging user interaction signals and task state information in adaptively optimizing usefulness-oriented search sessions" accepted by [JCDL2022](https://2022.jcdl.org/)
 - I will be serving as the Chair-elect for [ASIS&T SIG AI in 2022](https://www.asist.org/sig/sigai/)!
 - **Grant:** My project "CRII:III: A bias-aware approach to modeling users in interactive information retrieval" is funded by **National Science Foundation (NSF)**! The project's homepage is [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106152&HistoricalAwards=false).
 - **Journal paper** "Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
