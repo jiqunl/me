@@ -42,7 +42,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
-- **Liu, J.** & Han, F. (2022). Matching search result diversity with user diversity acceptance in Web search sessions. In *Proceedings of ACM SIGIR Conference on Research and Development in Information Retrieval.* 4 pages. Madrid, Spain. **(SIGIR2022)**
+- **Liu, J.** & Han, F. (2022). Matching search result diversity with user diversity acceptance in Web search sessions. In *Proceedings of ACM SIGIR Conference on Research and Development in Information Retrieval.* 5 pages. Madrid, Spain. **(SIGIR2022)**
 - **Liu, J.** & Shah, C. (2022). Leveraging user interaction signals and task state information in adaptively optimizing usefulness-oriented search sessions. In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries.* 10 pages. Cologne, Germany. **(JCDL2022)**
 - Brown, T. & **Liu, J.** (2022). A reference dependence approach to enhancing early prediction of session behavior and satisfaction. In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries.* 5 pages. Cologne, Germany. **(JCDL2022)**
 - **Liu, J.** & Yu, R. (2021). State-aware meta-evaluation of evaluation metrics in interactive information retrieval. In *Proceedings of the 30th ACM International Conference on Information and Knowledge Management*. Virtual event, Australia. **(CIKM2021)**
