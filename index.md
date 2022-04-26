@@ -27,7 +27,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
-- **JFSF summer 2022** Junior Faculty Summer Fellowship Award, Colledge of Arts and Sciences, University of Oklahoma ($7,000, **PI: Jiqun Liu**)
+- **JFSF summer 2022:** Junior Faculty Summer Fellowship Award, Colledge of Arts and Sciences, University of Oklahoma ($7,000, **PI: Jiqun Liu**)
 - **FIP 2022:** Faculty Investment Program Award, University of Oklahoma Office of the Vice President for Research and Partnerships ($15,000, **PI: Jiqun Liu**)
 - **NSF:** CRII:III: A bias-aware approach to modeling users in interactive information retrieval. ($174,959, **PI: Jiqun Liu**).
 - **JFF Summer 2021:** Junior Faculty Fellowship Program Award, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
