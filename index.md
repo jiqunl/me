@@ -27,10 +27,11 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
-- **JFSF Summer 2022:** Junior Faculty Summer Fellowship Award, Colledge of Arts and Sciences, University of Oklahoma ($7,000, **PI: Jiqun Liu**)
-- **FIP 2022:** Faculty Investment Program Award, University of Oklahoma Office of the Vice President for Research and Partnerships ($15,000, **PI: Jiqun Liu**)
+- **DISC Seed Fund 2022:** Active learning method for fair and useful Learning to Rank (L2R) in information retrieval, The Data Institute for Societal Challenges (DISC), University of Oklahoma ($9,800, **PI: Jiqun Liu**, Co-PI: Chao Lan)
+- **JFSF Summer 2022:** Junior Faculty Summer Fellowship Award: Assessing the reusability of session test collections in evaluating intelligent information retrieval systems, Colledge of Arts and Sciences, University of Oklahoma ($7,000, **PI: Jiqun Liu**)
+- **FIP 2022:** Faculty Investment Program Award: Toward expectation-based effectiveness metrics for adaptive whole session information retrieval evaluation, University of Oklahoma Office of the Vice President for Research and Partnerships ($15,000, **PI: Jiqun Liu**)
 - **NSF:** CRII:III: A bias-aware approach to modeling users in interactive information retrieval. ($174,959, **PI: Jiqun Liu**).
-- **JFF Summer 2021:** Junior Faculty Fellowship Program Award, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
+- **JFF Summer 2021:** Junior Faculty Fellowship Program Award: Learning task type and states for adaptively supporting users in complex search tasks, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
 
 ### Publications
 #### Book
