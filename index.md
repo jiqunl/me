@@ -14,6 +14,7 @@ My research focuses on the intersection of human-computer interaction (HCI), int
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
+- **Journal paper** "Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "Leveraging user interaction signals and task state information in adaptively optimizing usefulness-oriented search sessions" accepted by [JCDL2022](https://2022.jcdl.org/).
 - I will be serving as the Chair-elect for [ASIS&T SIG AI in 2022](https://www.asist.org/sig/sigai/)!
 - **Grant:** My project "CRII:III: A bias-aware approach to modeling users in interactive information retrieval" is funded by **National Science Foundation (NSF)**! The project's homepage is [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106152&HistoricalAwards=false).
@@ -39,6 +40,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)]
 
 #### Refereed Journal Article
+- **Liu, J.** (2022, accepted). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*.
 - **Liu, J.** (2021). Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors. *Information Processing and Management*, 58(3): 102522. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457321000315)]
 - Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
 - **Liu, J.**, Wang, Y., Mandal, S., & Shah, C. (2019). Exploring the immediate and short-term effects of peer advice and cognitive authority on Web search behavior. *Information Processing and Management*, 56(3), 1010-1025. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S030645731830236X)]
@@ -77,6 +79,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 ### Service
 
 #### Organizing and Chairing Activities
+- 1st ASIS&T SIG/AI student research symposium, organizer
 - SIGIR 2022 IWILDS Workshop Organizing Committee Member 
 - Chair-Elect, ASIS&T SIG AI 2022 -
 - CIKM 2021 IWILDS Workshop Organizing Committee Member 
@@ -100,7 +103,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 
 #### Program Committee Member
 - ACM SIGKDD (2022)
--	WSDM (2022)
+-	WSDM (2022, 2023)
 -	ACM SIGIR (2021)
 -	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
 -	ACM CHIIR (2020, 2021, 2022)
