@@ -40,7 +40,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)]
 
 #### Refereed Journal Article
-- **Liu, J.** (2022, accepted). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*.
+- **Liu, J.** (2022). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*. 59(5): 103007. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001182)]
 - **Liu, J.** (2021). Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors. *Information Processing and Management*, 58(3): 102522. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457321000315)]
 - Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
 - **Liu, J.**, Wang, Y., Mandal, S., & Shah, C. (2019). Exploring the immediate and short-term effects of peer advice and cognitive authority on Web search behavior. *Information Processing and Management*, 56(3), 1010-1025. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S030645731830236X)]
