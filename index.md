@@ -81,7 +81,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 ### Service
 
 #### Organizing and Chairing Activities
-- 1st ASIS&T SIG/AI student research symposium, organizer
+- 1st ASIS&T SIG/AI student research symposium, Organizer [[Event Poster](https://drive.google.com/file/d/1o6kiElKto6YAIvLlAjsItP69YVBs6e-c/view?usp=sharing)]
 - SIGIR 2022 IWILDS Workshop Organizing Committee Member 
 - Chair-Elect, ASIS&T SIG AI 2022 -
 - CIKM 2021 IWILDS Workshop Organizing Committee Member 
