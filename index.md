@@ -37,7 +37,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 
 ### Publications
 #### Book
-- **Liu, J.** (In Production). *A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users.* Springer Nature.
+- **Liu, J.** (In Production). *A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users.* Springer Nature. [[book](https://link.springer.com/book/9783031232282)]
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
