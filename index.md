@@ -14,6 +14,7 @@ My research focuses on the intersection of human-centered data science, interact
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 #### Recent News:
+- **New book in production** Authored research book "A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users" in production with Springer Nature. [[book abstract](https://link.springer.com/book/9783031232282)]
 - **Journal paper** "Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "Leveraging user interaction signals and task state information in adaptively optimizing usefulness-oriented search sessions" accepted and selected as a **Vannevar Bush best paper nominee** at [JCDL2022](https://2022.jcdl.org/).
 - I will be serving as the Chair-elect for [ASIS&T SIG AI in 2022](https://www.asist.org/sig/sigai/)!
