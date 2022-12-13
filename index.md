@@ -13,7 +13,9 @@ My research focuses on the intersection of human-centered data science, interact
 - Machine Learning, Recommender System, Natural Language Processing (NLP), or Text/Data Mining.
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
+
 #### Recent News:
+- **Full paper** "A two-sided fairness framework in search and recommendation" accepted by [CHIIR2023](https://sigir.org/chiir2023/).
 - **New book in production** Authored research book "A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users" in production with Springer Nature. [[book abstract](https://link.springer.com/book/9783031232282)]
 - **Journal paper** "Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "Leveraging user interaction signals and task state information in adaptively optimizing usefulness-oriented search sessions" accepted and selected as a **Vannevar Bush best paper nominee** at [JCDL2022](https://2022.jcdl.org/).
@@ -50,6 +52,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- **Liu, J.** (2023). A two-sided fairness farmwork in search and recommendation. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. Austin, TX, USA. **(CHIIR2023)**
 - Lei, J., Bu, Y., & **Liu, J.** (2023). Information retrieval research in academia and industry: A preliminary analysis of productivity, authorship, impact, and topic distribution. In *iConference 2023*. **(iConference2023)**
 - **Liu, J.** & Han, F. (2023). 5-4 ≠ 4-3: On the uneven gaps between different levels of graded user satisfaction in interactive information retrieval evaluation. In *Proceedings of 56th Hawaii International Conference on System Sciences*. Maui, HI. **(HICSS2023)**
 - **Liu, J.** & Han, F. (2022). Matching search result diversity with user diversity acceptance in Web search sessions. In *Proceedings of ACM SIGIR Conference on Research and Development in Information Retrieval.* 5 pages. Madrid, Spain. **(SIGIR2022)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531880?casa_token=RVcyNBAnCU0AAAAA:q5AMFTaSMx0hnfwzNCoDcJtax8HOaorC_Fx9-moTJ_lD5CORnaJmAQFbJK8l8MQTUXOpMwEhi0yWfA)][[Poster](https://drive.google.com/file/d/1n3Y9zwlDCmPrFMWBPyzScWei3y3zv-9i/view?usp=sharing)]
@@ -113,7 +116,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 -	WSDM (2022, 2023)
 -	ACM SIGIR (2021)
 -	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
--	ACM CHIIR (2020, 2021, 2022)
+-	ACM CHIIR (2020, 2021, 2022, 2023)
 -	ASIS&T AM (2018, 2019, 2020, 2021)
 -	ALISE (2020)
 -	iConference (2020)
