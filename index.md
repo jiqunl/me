@@ -44,7 +44,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
-- Jiang, T. & **Liu, J.** (Accepted). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. 
+- Jiang, T. & **Liu, J.** (Accepted). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)]
 - **Liu, J.** (2022). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*. 59(5): 103007. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001182)]
 - **Liu, J.** (2021). Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors. *Information Processing and Management*, 58(3): 102522. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457321000315)]
 - Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
