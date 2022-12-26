@@ -114,7 +114,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 #### Program Committee Member
 - ACM SIGKDD (2022)
 -	WSDM (2022, 2023)
--	ACM SIGIR (2021)
+-	ACM SIGIR (2021, 2022, 2023)
 -	Senior Member, SIGIR Artifact Evaluation Committee (AEC) 2021-
 -	ACM CHIIR (2020, 2021, 2022, 2023)
 -	ASIS&T AM (2018, 2019, 2020, 2021)
