@@ -104,6 +104,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - National Science Foundation (NSF) Reviewer 2021
 
 #### Journal Reviewer
+- ACM Transactions on Information Systems
 - Journal of the Association for Information Science and Technology
 - Information Processing and Management
 - Library and Information Science Research
