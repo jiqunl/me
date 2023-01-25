@@ -15,6 +15,7 @@ My research focuses on the intersection of human-centered data science, interact
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Full paper** "A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users" accepted by [ACM Web Conference 2023](https://www2023.thewebconf.org/). 
 - **Full paper** "A two-sided fairness framework in search and recommendation" accepted by [CHIIR2023](https://sigir.org/chiir2023/).
 - **New book in production** Authored research book "A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users" in production with Springer Nature. [[book abstract](https://link.springer.com/book/9783031232282)]
 - **Journal paper** "Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
@@ -52,6 +53,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- Chen, N., **Liu, J.,** & Sakai, T. (2023). A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users. In *Proceedings of the ACM Web Conference 2023*. Austin, TX, USA. **(TheWebConf2023)**
 - **Liu, J.** (2023). A two-sided fairness framework in search and recommendation. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. Austin, TX, USA. **(CHIIR2023)**
 - Lei, J., Bu, Y., & **Liu, J.** (2023). Information retrieval research in academia and industry: A preliminary analysis of productivity, authorship, impact, and topic distribution. In *iConference 2023*. **(iConference2023)**
 - **Liu, J.** & Han, F. (2023). 5-4 ≠ 4-3: On the uneven gaps between different levels of graded user satisfaction in interactive information retrieval evaluation. In *Proceedings of 56th Hawaii International Conference on System Sciences*. Maui, HI. **(HICSS2023)**
