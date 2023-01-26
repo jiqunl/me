@@ -15,6 +15,7 @@ My research focuses on the intersection of human-centered data science, interact
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Journal paper** "Investigating the role of in-situ user expectations in Web search" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users" accepted by [ACM Web Conference 2023](https://www2023.thewebconf.org/). 
 - **Full paper** "A two-sided fairness framework in search and recommendation" accepted by [CHIIR2023](https://sigir.org/chiir2023/).
 - **New book in production** Authored research book "A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users" in production with Springer Nature. [[book abstract](https://link.springer.com/book/9783031232282)]
@@ -45,7 +46,8 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
-- Jiang, T. & **Liu, J.** (Accepted). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)]
+- Wang, B. & **Liu, J.** (Accepted). Investigating the role of in-situ user expectations in Web search. *Information Processing and Management*. **(IP&M)**
+- Jiang, T. & **Liu, J.** (2023). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)]
 - **Liu, J.** (2022). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*. 59(5): 103007. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001182)]
 - **Liu, J.** (2021). Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors. *Information Processing and Management*, 58(3): 102522. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457321000315)]
 - Sarkar, S., Mitsui, M., **Liu, J.**, & Shah, C. (2020). Implicit information needs as explicit problems, help, and behavioral signals. *Information Processing and Management*, 57(2): 102069. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457319300457)]
