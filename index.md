@@ -47,6 +47,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
+- Zhang,Y. & **Liu, J.** (2023). Deconstructing proxy health information-seeking behavior: A systematic review. *Library and Information Science Research*. 45(3). **(L&ISR)**
 - Wang, B. & **Liu, J.** (2023). Investigating the role of in-situ user expectations in Web search. *Information Processing and Management*. 60(3): 103300. **(IP&M)**
 - Jiang, T. & **Liu, J.** (2023). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)]
 - **Liu, J.** (2022). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*. 59(5): 103007. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001182)]
@@ -56,6 +57,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- Wang, B. & **Liu, J.** (2023). Characterizing and early predicting user performance for adaptive search path recommendation. In *Proceedings of the Annual Meeting of the Association for Information Science and Technology*. **(ASIS&T2023)**
 - Chen, N., **Liu, J.,** & Sakai, T. (2023). A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users. In *Proceedings of the ACM Web Conference 2023*. Austin, TX, USA. **(TheWebConf2023)**
 - **Liu, J.** (2023). A two-sided fairness framework in search and recommendation. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. Austin, TX, USA. **(CHIIR2023)**
 - Lei, J., Bu, Y., & **Liu, J.** (2023). Information retrieval research in academia and industry: A preliminary analysis of productivity, authorship, impact, and topic distribution. In *iConference 2023*. **(iConference2023)**
