@@ -47,7 +47,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
-- Zhang,Y. & **Liu, J.** (2023). Deconstructing proxy health information-seeking behavior: A systematic review. *Library and Information Science Research*. 45(3). **(L&ISR)**
+- Zhang,Y. & **Liu, J.** (2023). Deconstructing proxy health information-seeking behavior: A systematic review. *Library and Information Science Research*. 45(3): 101250. **(L&ISR)**
 - Wang, B. & **Liu, J.** (2023). Investigating the role of in-situ user expectations in Web search. *Information Processing and Management*. 60(3): 103300. **(IP&M)**
 - Jiang, T. & **Liu, J.** (2023). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)]
 - **Liu, J.** (2022). Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation. *Information Processing and Management*. 59(5): 103007. **(IP&M)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001182)]
