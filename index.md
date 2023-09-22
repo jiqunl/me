@@ -1,9 +1,9 @@
 ### About Me
 I am an **Assistant Professor of Data Science** and **Affiliated Assistant Professor of Psychology** at the University of Oklahoma (OU). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
 
-My research focuses on the intersection of human-centered data science, machine learning, and cognitive psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in adaptive recommendation and explanation, user education and intelligent nudging. My recent projects focus on: 
-- **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-information interactions and develop useful, proactive information retrieval and recommender systems.
-- **Fair, Ethical, and Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted conversational systems in critical application domains, such as K-12 education, health and medical information access, online privacy and secruity, and financial decision-making.
+My research focuses on the intersection of human-centered data science, machine learning/AI, and cognitive psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in adaptive recommendation and explanation, user education and intelligent nudging. My recent projects focus on: 
+- **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-AI interactions and develop useful, proactive information retrieval and recommender systems.
+- **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and personal assistants in critical application domains, such as K-12 education, health and medical information access, online privacy and secruity, and business decision-making.
 
 Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1H88P8bsq7zjSNJ33IV8l7EnqpbeGP8UO/view?usp=share_link).
 
@@ -16,7 +16,8 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 **[*Note to Perspective Students:*]** I am actively looking for self-motivated students to join my Human-Computer Interaction and Recommendation group at OU and work on interesting cutting-edge problems in information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds and research interests:
 - Human-Computer Interaction, Interactive Information Retrieval/Recommendation, UX Design/Research, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
 - Machine Learning, Natural Language Processing (NLP), and Generative Artificial Intelligence (AI).
-- Cognitive and Societal Impacts of Intelligent Information Systems (e.g. Fairness, Accountability, Transparency, and Ethics); Social and Community Informatics.
+- Cognitive Science, User Modeling, Controlled Behavioral Experiments;
+- Societal Impacts of Intelligent Information Systems; Social and Community Informatics.
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
