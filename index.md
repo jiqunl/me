@@ -54,7 +54,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
-- Markwald, M., **Liu, J.**, & Yu, R. (2023). Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems. *Information Retrieval Journal*.
+- Markwald, M., **Liu, J.**, & Yu, R. (2023). Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems. *Information Retrieval Journal*. **(IRJ)**
 - Zhang,Y. & **Liu, J.** (2023). Deconstructing proxy health information-seeking behavior: A systematic review. *Library and Information Science Research*. 45(3): 101250. **(L&ISR)**
 - Wang, B. & **Liu, J.** (2023). Investigating the role of in-situ user expectations in Web search. *Information Processing and Management*. 60(3): 103300. **(IP&M)**
 - Jiang, T. & **Liu, J.** (2023). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)]
