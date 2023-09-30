@@ -21,6 +21,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Full paper** "Characterizing and early predicting user performance for adaptive search path recommendation" accepted by [ASIS&T 2023](https://www.asist.org/am23/) and received 2023 SIG USE Best Information Behavior Conference Paper Award.
 - **Journal paper** "Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems" accepted by [Information Retrieval Journal](https://www.springer.com/journal/10791).
 - **Journal paper** "Investigating the role of in-situ user expectations in Web search" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
 - **Full paper** "A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users" accepted by [ACM Web Conference 2023](https://www2023.thewebconf.org/). 
@@ -40,6 +41,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
+- **BFIP 2023**: Bridge Funding Investment Program Award: Identifying and mitigating cognitive biases in generative-AI-assisted online learning, University of Oklahoma Office of the Vice President for Research and Partnerships ($33,918, **PI: Jiqun Liu**)
 - **JFF Summer 2023**: Junior Faculty Fellowship Program Award: Toward a two-sided fairness framework for search and recommendation, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
 - **NSF REU 2022:** Research Experience for Undergraduates (REU) supplemental award from the National Science Foundation (NSF) bias-aware user modeling in interactive IR project ($8,000, **PI: Jiqun Liu**)
 - **DISC Seed Fund 2022:** Active learning method for fair and useful Learning to Rank (LTR) in information retrieval, The Data Institute for Societal Challenges (DISC), University of Oklahoma ($9,800, **PI: Jiqun Liu**, Co-PI: Chao Lan)
