@@ -94,6 +94,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - Li, Y., **Liu, J.** (2017). Chinese individual investors’ information-seeking behavior on the Web. (10 pages). Paper presented at *iConference 2017*, Wuhan, China. **(iConference2017)** [[Paper](https://www.ideals.illinois.edu/bitstream/handle/2142/96685/1.11_225_Li-Chinese%20Individual%20Investors%27%20Information-Seeking%20Behavior.pdf?sequence=1&isAllowed=y)]
 
 #### Refereed Conference Poster
+- Chen, N., **Liu, J.**, Sakai, T., & Wu, X. (2023). Decoy effect in search interaction: A pilot study. In *Proceedings of the 2023 Workshop on Evaluating Information Access (EVIA) at NTCIR-17*. 
 - Jung, Y. J., & **Liu, J.** (2022). Children’s interest, search, and knowledge: A pilot analysis of a STEM maker workshop. In *Proceedings of the 85th Annual Meeting of the Association for Information Science and Technology*. 59(1). **(ASIS&T2022)** **(SIG USE best information behavior poster award)**
 - Wang, B., & **Liu, J.** (2022). Investigating the relationship between in-situ user expectations and Web search behavior. In *Proceedings of the 85th Annual Meeting of the Association for Information Science and Technology*. 59(1). **(ASIS&T2022)**
 - Wang, B. & **Liu, J.** (2021). Extracting implicit search task states from explicit behavioral signals in complex search tasks. In *Proceedings of the 84th Annual Meeting of the Association for Information Science and Technology*. **(ASIS&T2021)**
