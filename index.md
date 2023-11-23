@@ -5,7 +5,7 @@ I am an **Assistant Professor of Data Science** and **Affiliated Assistant Profe
 
 My research focuses on the intersection of human-centered data science, machine learning/AI, and cognitive psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in search and recommendation, user education and intelligent nudging. My recent projects focus on: 
 - **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-AI interactions and develop useful, proactive information retrieval and recommender systems.
-- **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and personal assistants in critical application domains, such as K-12 education, health and medical information access, online privacy and secruity, and business decision-making.
+- **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and personal assistants in critical application domains, such as health and medical information access, healthcare, K-12 education, online privacy and secruity, and business decision-making.
 
 Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1nXW1XSkGmr4A-ie6YQ4CwPxQAaB6m9y2/view?usp=share_link).
 
@@ -18,7 +18,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 **[*Note to Perspective Students:*]** I am actively looking for self-motivated students to join my Human-Computer Interaction and Recommendation group at OU and work on interesting cutting-edge problems in information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds and research interests:
 - Human-Computer Interaction, Interactive Information Retrieval/Recommendation, UX Design/Research, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
 - Machine Learning, Natural Language Processing (NLP), and Generative Artificial Intelligence (AI).
-- Societal Impacts of Intelligent Information Systems; Social and Community Informatics.
+- Societal Impacts of Intelligent Information Systems, especially in healthcare and lifelong learning; Social and Community Informatics.
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
