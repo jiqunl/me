@@ -23,7 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
-- **Tutorial**: We are organizing a tutorial on Modeling Search Interaction with Behavioral Economics at [ACM CHIIR 2024](https://chiir2024.github.io/). The tutorial website is [online](https://biasir.github.io/)!
+- **Tutorial**: We are organizing a tutorial on *Modeling Search Interaction with Behavioral Economics* at [ACM CHIIR 2024](https://chiir2024.github.io/). The tutorial website is [online](https://biasir.github.io/)!
 - **Full paper** "Characterizing and early predicting user performance for adaptive search path recommendation" accepted by [ASIS&T 2023](https://www.asist.org/am23/) and received 2023 SIG USE Best Information Behavior Conference Paper Award.
 - **Journal paper** "Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems" accepted by [Information Retrieval Journal](https://www.springer.com/journal/10791).
 - **Journal paper** "Investigating the role of in-situ user expectations in Web search" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
