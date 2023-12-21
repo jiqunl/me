@@ -70,7 +70,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
-- - Wang, B., **Liu, J.**, Karimnazarov, J., & Thompson, N. (2024). Task supportive and personalized human-large language model interaction: A user study. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. 4 pages. Sheffield, UK. **(CHIIR2024)**
+- Wang, B., **Liu, J.**, Karimnazarov, J., & Thompson, N. (2024). Task supportive and personalized human-large language model interaction: A user study. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. 4 pages. Sheffield, UK. **(CHIIR2024)**
 - Wang, X., Rahmani, H., **Liu, J.,** & Yilmaz, E. (2023). Improving conversational recommendation systems via bias analysis and language-model-enhanced data augmentation. In *Proceedings of the Findings of Empirical Methods in Natural Language Processing*. **(EMNLP 2023 Findings)**
 - Wang, B. & **Liu, J.** (2023). Characterizing and early predicting user performance for adaptive search path recommendation. In *Proceedings of the Annual Meeting of the Association for Information Science and Technology*. **(ASIS&T2023)** **(SIG USE best information behavior paper award)**
 - Chen, N., **Liu, J.,** & Sakai, T. (2023). A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users. In *Proceedings of the ACM Web Conference 2023*. Austin, TX, USA. **(TheWebConf2023)**
