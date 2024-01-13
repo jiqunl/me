@@ -7,7 +7,7 @@ My research focuses on the intersection of human-centered data science, machine 
 - **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-AI interactions and develop useful, proactive information retrieval and recommender systems.
 - **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and personal assistants in critical application domains, such as health and medical information access, healthcare, K-12 education, online privacy and secruity, and business decision-making.
 
-Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/12Gl6hHK-RjbtCr4drp2qjpzeeBSOYBXC/view?usp=share_link).
+Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1Y_-iGMwVIC0lULeReb8n7OsHeOD3H5sv/view?usp=share_link).
 
 [[GoogleScholar](https://scholar.google.com/citations?user=SSkPeogAAAAJ&hl=en)]
 [[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)]
