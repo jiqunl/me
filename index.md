@@ -44,6 +44,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
+- **Microsoft Research Award:** Functional fixedness evaluation in human-large language model (LLM) interaction ($20,000, **PI: Jiqun Liu**)
 - **DISC Seed Fund 2023:** Bias-aware evaluation of generative search engines: An exploratory study, The Data Institute for Societal Challenges (DISC), University of Oklahoma ($10,000, **PI: Jiqun Liu**)
 - **BFIP 2023**: Bridge Funding Investment Program Award: Identifying and mitigating cognitive biases in generative-AI-assisted online learning, University of Oklahoma Office of the Vice President for Research and Partnerships ($33,918, **PI: Jiqun Liu**)
 - **JFF Summer 2023**: Junior Faculty Fellowship Program Award: Toward a two-sided fairness framework for search and recommendation, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
