@@ -62,6 +62,8 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
+- Wang, B. & **Liu, J.** (2024). Understanding users’ dynamic perceptions of search gain and cost in sessions: An expectation confirmation model. *Journal of the Association for Information Science and Technology*. **(JASIST)**
+- Jung, Y. J. & **Liu, J.** (2024). Toward a conceptual framework characterizing the interplay of interest development, information search, and knowledge construction (ISK) in children’s learning. *Aslib Journal of Information Management*. Ahead-of-print. **(AJIM)**
 - Markwald, M., **Liu, J.**, & Yu, R. (2023). Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems. *Information Retrieval Journal*. **(IRJ)**
 - Zhang,Y. & **Liu, J.** (2023). Deconstructing proxy health information-seeking behavior: A systematic review. *Library and Information Science Research*. 45(3): 101250. **(L&ISR)**
 - Wang, B. & **Liu, J.** (2023). Investigating the role of in-situ user expectations in Web search. *Information Processing and Management*. 60(3): 103300. **(IP&M)**
