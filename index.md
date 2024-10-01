@@ -4,7 +4,7 @@
 I am an **Assistant Professor of Data Science** and **Affiliated Assistant Professor of Psychology** at the University of Oklahoma (OU). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
 
 My research focuses on the intersection of human-centered data science, machine learning/AI, and cognitive psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in search and recommendation, user education and intelligent nudging. My recent projects focus on: 
-- **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-AI interactions and develop useful, proactive information retrieval and recommender systems.
+- **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-AI interactions and develop useful, proactive IR, recommendation, and generative information systems.
 - **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and personal assistants in critical application domains, such as health and medical information access, healthcare, K-12 education, online privacy and secruity, and business decision-making.
 
 Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Microsoft](https://www.microsoft.com/en-us/research/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1fW_hKBo_vqbcAIXBA75VL6No6qqZ_kXa/view?usp=share_link).
@@ -23,7 +23,9 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
-- **Tutorial**: We are organizing a tutorial on *Testing, Mitigating, and Accounting for Cognitive Biases in Search Experiments* at [ACM SIGIR 2024](https://sigir-2024.github.io/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial. 
+- **Tutorial**: We are organizing a tutorial on *Evaluating Cognitive Biases in Conversational and Generative IIR" at [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial!
+- **Full paper**: "AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment" accepted by [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Link to our arxiv paper [here](https://arxiv.org/pdf/2409.16022). 
+- **Tutorial**: We are organizing a tutorial on *Testing, Mitigating, and Accounting for Cognitive Biases in Search Experiments* at [ACM SIGIR 2024](https://sigir-2024.github.io/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial! 
 - **Tutorial**: We are organizing a tutorial on *Modeling Search Interaction with Behavioral Economics* at [ACM CHIIR 2024](https://chiir2024.github.io/). The tutorial website is [online](https://beiir.github.io/)!
 - **Full paper** "Characterizing and early predicting user performance for adaptive search path recommendation" accepted by [ASIS&T 2023](https://www.asist.org/am23/) and received 2023 SIG USE Best Information Behavior Conference Paper Award.
 - **Journal paper** "Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems" accepted by [Information Retrieval Journal](https://www.springer.com/journal/10791).
@@ -63,9 +65,9 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
-- Wang, B. & **Liu, J.** (2024). Understanding users’ dynamic perceptions of search gain and cost in sessions: An expectation confirmation model. *Journal of the Association for Information Science and Technology*. **(JASIST)**
+- Wang, B. & **Liu, J.** (2024). Understanding users’ dynamic perceptions of search gain and cost in sessions: An expectation confirmation model. *Journal of the Association for Information Science and Technology*. **(JASIST)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24935)]
 - Jung, Y. J. & **Liu, J.** (2024). Toward a conceptual framework characterizing the interplay of interest development, information search, and knowledge construction (ISK) in children’s learning. *Aslib Journal of Information Management*. Ahead-of-print. **(AJIM)**
-- Markwald, M., **Liu, J.**, & Yu, R. (2023). Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems. *Information Retrieval Journal*. **(IRJ)**
+- Markwald, M., **Liu, J.**, & Yu, R. (2023). Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems. *Information Retrieval Journal*. **(IRJ)** [[Paper](https://link.springer.com/article/10.1007/s10791-023-09426-1)]
 - Zhang,Y. & **Liu, J.** (2023). Deconstructing proxy health information-seeking behavior: A systematic review. *Library and Information Science Research*. 45(3): 101250. **(L&ISR)**
 - Wang, B. & **Liu, J.** (2023). Investigating the role of in-situ user expectations in Web search. *Information Processing and Management*. 60(3): 103300. **(IP&M)**
 - Jiang, T. & **Liu, J.** (2023). Reflection on future directions: A systematic review of reported limitations and solutions in interactive information retrieval user studies. *Aslib Journal of Information Management*. [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2022-0253/full/html)] **(Aslib)**
@@ -76,6 +78,8 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- Chen, N., **Liu, J.**, Dong, X. Liu, Q., Sakai, T. & Wu, X-M. (2024). AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment. In *Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific*. **(SIGIR-AP)** [[Paper](https://arxiv.org/pdf/2409.16022)]
+- Zhang, Y* & **Liu, J.** (2024). Where do older adults’ mental models for video recommender systems come from: A qualitative study. In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries*. **(JCDL2024)**
 - Wang, B. & **Liu, J.** (2024). Cognitively biased users interacting with algorithmically biased results in whole-session search on debated topics. In *Proceedings of the ACM SIGIR Conference on the Theory of Information Retrieval*. **(ICTIR2024)**
 - Wang, B., **Liu, J.**, Karimnazarov, J., & Thompson, N. (2024). Task supportive and personalized human-large language model interaction: A user study. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. 4 pages. Sheffield, UK. **(CHIIR2024)**
 - Wang, X., Rahmani, H., **Liu, J.,** & Yilmaz, E. (2023). Improving conversational recommendation systems via bias analysis and language-model-enhanced data augmentation. In *Proceedings of the Findings of Empirical Methods in Natural Language Processing*. **(EMNLP 2023 Findings)**
