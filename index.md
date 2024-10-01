@@ -23,7 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
-- **Tutorial**: We are organizing a tutorial on *Evaluating Cognitive Biases in Conversational and Generative IIR" at [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial!
+- **Tutorial**: We are organizing a tutorial on *Evaluating Cognitive Biases in Conversational and Generative IIR* at [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial!
 - **Full paper**: "AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment" accepted by [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Link to our arxiv paper [here](https://arxiv.org/pdf/2409.16022). 
 - **Tutorial**: We are organizing a tutorial on *Testing, Mitigating, and Accounting for Cognitive Biases in Search Experiments* at [ACM SIGIR 2024](https://sigir-2024.github.io/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial! 
 - **Tutorial**: We are organizing a tutorial on *Modeling Search Interaction with Behavioral Economics* at [ACM CHIIR 2024](https://chiir2024.github.io/). The tutorial website is [online](https://beiir.github.io/)!
