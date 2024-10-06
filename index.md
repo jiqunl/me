@@ -24,6 +24,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 
 #### Recent News:
 - Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
+- **Award**: Our proposal (with Dr. Yong Ju Jung) titled "Enhancing AI Literacy Through Maker-Based Learning with Generative AI" received Elfreda A. Chatman Research Award from [ASIS&T](https://www.asist.org/am24/) SIG USE in 2024!
 - **Tutorial**: We are organizing a tutorial on *Evaluating Cognitive Biases in Conversational and Generative IIR* at [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial!
 - **Full paper**: "AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment" accepted by [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Link to our arxiv paper [here](https://arxiv.org/pdf/2409.16022). 
 - **Tutorial**: We are organizing a tutorial on *Testing, Mitigating, and Accounting for Cognitive Biases in Search Experiments* at [ACM SIGIR 2024](https://sigir-2024.github.io/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial! 
