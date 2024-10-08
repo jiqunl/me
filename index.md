@@ -67,6 +67,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
+- Zhang, Y. & **Liu, J.** (2024). Falling behind again? Characterizing and assessing older adults' algorithm literacy in interactions with video recommendations. *Journal of the Association for Information Science and Technology*. **(JASIST)** 
 - Wang, B. & **Liu, J.** (2024). Understanding users’ dynamic perceptions of search gain and cost in sessions: An expectation confirmation model. *Journal of the Association for Information Science and Technology*. **(JASIST)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24935)]
 - Jung, Y. J. & **Liu, J.** (2024). Toward a conceptual framework characterizing the interplay of interest development, information search, and knowledge construction (ISK) in children’s learning. *Aslib Journal of Information Management*. Ahead-of-print. **(AJIM)**
 - Markwald, M., **Liu, J.**, & Yu, R. (2023). Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems. *Information Retrieval Journal*. **(IRJ)** [[Paper](https://link.springer.com/article/10.1007/s10791-023-09426-1)]
