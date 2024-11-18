@@ -23,6 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Workshop**: We are organizing the IWILDS'25 - The 5th Internation Workshop on Investigating Learning during Web Search at [ACM WSDM 2025](https://www.wsdm-conference.org/2025/). Please join us in discussions on future learning in search and AI-enabled chat!
 - Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
 - **Award**: Our proposal (with Dr. Yong Ju Jung) titled "Enhancing AI Literacy Through Maker-Based Learning with Generative AI" received Elfreda A. Chatman Research Award from [ASIS&T](https://www.asist.org/am24/) SIG USE in 2024!
 - **Tutorial**: We are organizing a tutorial on *Evaluating Cognitive Biases in Conversational and Generative IIR* at [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial!
@@ -34,7 +35,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Journal paper** "Investigating the role of in-situ user expectations in Web search" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
 - **Full paper** "A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users" accepted by [ACM Web Conference 2023](https://www2023.thewebconf.org/). 
 - **Full paper** "A two-sided fairness framework in search and recommendation" accepted by [CHIIR2023](https://sigir.org/chiir2023/).
-- **New book in production** Authored research book "A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users" in production with Springer Nature. [[book abstract](https://link.springer.com/book/9783031232282)]
+- **New book** Authored research book "A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users" in production with Springer Nature. [[book abstract](https://link.springer.com/book/9783031232282)]
 - **Journal paper** "Toward Cranfield-inspired reusability assessment in interactive information retrieval evaluation" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "Leveraging user interaction signals and task state information in adaptively optimizing usefulness-oriented search sessions" accepted and selected as a **Vannevar Bush best paper nominee** at [JCDL2022](https://2022.jcdl.org/).
 - I will be serving as the Chair-elect for [ASIS&T SIG AI in 2022](https://www.asist.org/sig/sigai/)!
@@ -44,8 +45,6 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
 - **Full paper** "Investigating reference-dependence effects on user search interaction and satisfaction: A behavioral economics perspective" accepted by [SIGIR2020](https://sigir.org/sigir2020/).
-- **Full paper** "Identifying and predicting the states of complex search tasks" accepted by [CHIIR2020](https://sigir.org/chiir2020/#/).
-- **Full paper** "Proactive identification of query failure" won **Best long paper award (student)** at [ASIS&T AM 19](https://www.asist.org/meetings-events/am/am19/). 
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
