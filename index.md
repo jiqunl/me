@@ -23,6 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Journal paper** "Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability" accepted by [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois)
 - **Workshop**: We are organizing the IWILDS'25 - The 5th Internation Workshop on Investigating Learning during Web Search at [ACM WSDM 2025](https://www.wsdm-conference.org/2025/). Please join us in discussions on future learning in search and AI-enabled chat!
 - Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
 - **Award**: Our proposal (with Dr. Yong Ju Jung) titled "Enhancing AI Literacy Through Maker-Based Learning with Generative AI" received Elfreda A. Chatman Research Award from [ASIS&T](https://www.asist.org/am24/) SIG USE in 2024!
@@ -66,6 +67,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
 
 #### Refereed Journal Article
+- Chen, N., **Liu, J.**, Fang, H., Luo, Y., Sakai, T. & Wu, X-M. (2025). Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability. *ACM Transctions on Information Systems*. **(ACM TOIS)**
 - Zhang, Y. & **Liu, J.** (2024). Falling behind again? Characterizing and assessing older adults' algorithm literacy in interactions with video recommendations. *Journal of the Association for Information Science and Technology*. **(JASIST)** 
 - Wang, B. & **Liu, J.** (2024). Understanding users’ dynamic perceptions of search gain and cost in sessions: An expectation confirmation model. *Journal of the Association for Information Science and Technology*. **(JASIST)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24935)]
 - Jung, Y. J. & **Liu, J.** (2024). Toward a conceptual framework characterizing the interplay of interest development, information search, and knowledge construction (ISK) in children’s learning. *Aslib Journal of Information Management*. Ahead-of-print. **(AJIM)**
