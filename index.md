@@ -23,7 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
-- **Journal paper** "Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability" accepted by [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois)
+- **Journal paper** "Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability" accepted by [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois)!
 - **Workshop**: We are organizing the IWILDS'25 - The 5th Internation Workshop on Investigating Learning during Web Search at [ACM WSDM 2025](https://www.wsdm-conference.org/2025/). Please join us in discussions on future learning in search and AI-enabled chat!
 - Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
 - **Award**: Our proposal (with Dr. Yong Ju Jung) titled "Enhancing AI Literacy Through Maker-Based Learning with Generative AI" received Elfreda A. Chatman Research Award from [ASIS&T](https://www.asist.org/am24/) SIG USE in 2024!
