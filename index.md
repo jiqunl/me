@@ -23,6 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Full paper** "Boundedly rational searchers interacting with medical misinformation: Characterizing context-dependent decoy effects on credibility and usefulness evaluation in sessions" accepted by [*CHIIR2025*](https://chiir2025.github.io/)! 
 - **Journal paper** "Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability" accepted by [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois)!
 - **Workshop**: We are organizing the IWILDS'25 - The 5th Internation Workshop on Investigating Learning during Web Search at [ACM WSDM 2025](https://www.wsdm-conference.org/2025/). Please join us in discussions on future learning in search and AI-enabled chat!
 - Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
@@ -82,7 +83,8 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
-- Chen, N., **Liu, J.**, Dong, X. Liu, Q., Sakai, T. & Wu, X-M. (2024). AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment. In *Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific*. **(SIGIR-AP)** [[Paper](https://arxiv.org/pdf/2409.16022)]
+- **Liu, J.** & He, J. (2025). Boundedly rational searchers interacting with medical misinformation: Characterizing context-dependent decoy effects on credibility and usefulness evaluation in sessions. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. **(CHIIR2025)**. 
+- Chen, N., **Liu, J.**, Dong, X. Liu, Q., Sakai, T. & Wu, X-M. (2024). AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment. In *Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific*. **(SIGIR-AP2024)** [[Paper](https://arxiv.org/pdf/2409.16022)]
 - Zhang, Y* & **Liu, J.** (2024). Where do older adults’ mental models for video recommender systems come from: A qualitative study. In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries*. **(JCDL2024)**
 - Wang, B. & **Liu, J.** (2024). Cognitively biased users interacting with algorithmically biased results in whole-session search on debated topics. In *Proceedings of the ACM SIGIR Conference on the Theory of Information Retrieval*. **(ICTIR2024)**
 - Wang, B., **Liu, J.**, Karimnazarov, J., & Thompson, N. (2024). Task supportive and personalized human-large language model interaction: A user study. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. 4 pages. Sheffield, UK. **(CHIIR2024)**
