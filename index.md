@@ -51,6 +51,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 
 ### Grants & Awards
 - **Microsoft Research Award:** Functional fixedness evaluation in human-large language model (LLM) interaction ($20,000, **PI: Jiqun Liu**)
+- **FIP 2025:** Faculty Investment Program Award: Making Mistakes Like Humans: Detecting Biased Judgments of Artificial Intelligence, University of Oklahoma Office of the Vice President for Research and Partnerships ($15,000, **PI: Jiqun Liu**)
 - **JFSF Summer 2024:** Junior Faculty Summer Fellowship Award: Measuring potential harms of AI manipulation: An exploratory study, Dodge Family Colledge of Arts and Sciences, University of Oklahoma ($7,000, **PI: Jiqun Liu**)
 - **DISC Seed Fund 2023:** Bias-aware evaluation of generative search engines: An exploratory study, The Data Institute for Societal Challenges (DISC), University of Oklahoma ($10,000, **PI: Jiqun Liu**)
 - **BFIP 2023**: Bridge Funding Investment Program Award: Identifying and mitigating cognitive biases in generative-AI-assisted online learning, University of Oklahoma Office of the Vice President for Research and Partnerships ($33,918, **PI: Jiqun Liu**)
