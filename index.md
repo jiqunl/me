@@ -23,6 +23,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Short paper** "LLM-driven usefulness labeling for IR evaluation" accepted by [*SIGIR2025*](https://sigir2025.dei.unipd.it/)!
 - **Full paper** "Boundedly rational searchers interacting with medical misinformation: Characterizing context-dependent decoy effects on credibility and usefulness evaluation in sessions" accepted by [*CHIIR2025*](https://chiir2025.github.io/)! 
 - **Journal paper** "Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability" accepted by [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois)!
 - **Workshop**: We are organizing the IWILDS'25 - The 5th Internation Workshop on Investigating Learning during Web Search at [ACM WSDM 2025](https://www.wsdm-conference.org/2025/). Please join us in discussions on future learning in search and AI-enabled chat!
@@ -45,7 +46,6 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Journal paper** "Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
 - **Full paper** "Interest development, knowledge learning, and interactive IR: Toward a state-based approach to search as learning" accepted by [CHIIR2021](https://acm-chiir.github.io/chiir2021/)
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
-- I serve as a co-Chair for [ASIS&T AM 2020 SIG USE Symposium](https://www.asist.org/sig/siguse/sig-use-annual-symposium/).
 - **Full paper** "Investigating reference-dependence effects on user search interaction and satisfaction: A behavioral economics perspective" accepted by [SIGIR2020](https://sigir.org/sigir2020/).
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
@@ -84,6 +84,7 @@ If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a b
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- Dewan, M., **Liu, J.**, & Shah, C. (2025). LLM-driven usefulness labeling for IR evaluation. In In *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*. Padova, Italy. **(SIGIR2025)**. 
 - **Liu, J.** & He, J. (2025). Boundedly rational searchers interacting with medical misinformation: Characterizing context-dependent decoy effects on credibility and usefulness evaluation in sessions. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. **(CHIIR2025)**. 
 - Chen, N., **Liu, J.**, Dong, X. Liu, Q., Sakai, T. & Wu, X-M. (2024). AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment. In *Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific*. **(SIGIR-AP2024)** [[Paper](https://arxiv.org/pdf/2409.16022)]
 - Zhang, Y* & **Liu, J.** (2024). Where do older adults’ mental models for video recommender systems come from: A qualitative study. In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries*. **(JCDL2024)**
