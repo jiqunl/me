@@ -1,7 +1,7 @@
 ### About Me
 *How to pronounce my name?* **Jiqun [Jee-chwen] Liu [Lee-oo]**
 
-I am an **Assistant Professor of Data Science** and **Affiliated Assistant Professor of Psychology** at the University of Oklahoma (OU). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
+I am an **Assistant Professor, Data Science** and **Affiliated Assistant Professor, Psychology** at the University of Oklahoma (OU). I am also an affiliated faculty member at the Data Institute of Societal Challenges. I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
 
 My research focuses on the intersection of Large Language Model (LLM), Information Retrieval, and Cognitive Psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in conversational information retrieval and generation, proactive recommendation, and intelligent nudging. My recent projects focus on: 
 - **Psychology-Informed Language Models and Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-LLM interactions and develop proactive IR, recommendation, and generative information systems.
@@ -21,7 +21,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 - Large Language Model (LLM) development and evaluation; Generative Artificial Intelligence (GenAI). 
 - Societal Impacts of Intelligent Information Systems, especially in healthcare and lifelong learning; Social and Community Informatics.
 
-If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
+If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
 - **Short paper** "LLM-driven usefulness labeling for IR evaluation" accepted by [*SIGIR2025*](https://sigir2025.dei.unipd.it/)!
