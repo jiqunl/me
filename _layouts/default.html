@@ -12,6 +12,30 @@
     <![endif]-->
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <style>
+        @media only screen and (max-width: 768px) {
+  /* 1) 头像不再浮动，居中显示 */
+  header img {
+    float: none !important;
+    display: block !important;
+    margin: 0 auto 1rem !important;
+    max-width: 80% /* 或者根据需要 */
+  }
+
+  /* 2) 正文区取消左边距，恢复全宽 */
+  .wrapper section {
+    margin-left: 0 !important;
+    padding: 0 1rem !important;   /* 保证一点左右内间距 */
+    width: auto !important;
+    max-width: none !important;
+  }
+
+  /* 3) 如果外层 .wrapper 也做了宽度限制，一并重置 */
+  .wrapper {
+    width: auto !important;
+    max-width: none !important;
+    padding: 0 1rem !important;
+  }
+}
         /* 1. 头像左浮动，并在右侧／底部留白 */
     header img {
       float: left;
