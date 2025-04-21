@@ -12,10 +12,23 @@
     <![endif]-->
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <style>
-    /* 将 section（或 .wrapper）的宽度再拉宽一些 */
-    .wrapper {
-      max-width: none !important;
-      width: 90% !important;
+  .wrapper {
+      /* 原来可能是 max-width: 600px；我们把它调成更大的数 */
+      max-width: 1200px !important;  /* 或者你想要的任意像素值 */
+      width: 95%         !important;  /* 在小屏幕上仍然会响应式地缩放 */
+      margin: 0 auto     !important;  /* 保证居中 */
+    }
+
+    /* 2) 正文 section 区块不要再被限制宽度 */
+    .wrapper section {
+      max-width: none    !important;  /* 取消掉之前给 section 的任何 max-width */
+      width: auto        !important;  /* 让它跟随 .wrapper 的宽度 */
+    }
+
+    /* 3) 如果你的主题里给 section 或者 .post-content 设了左右内边距，也可以适当减小 */
+    .wrapper section {
+      padding-left: 1rem  !important; /* 根据需要自行调节 */
+      padding-right: 1rem !important;
     }
   </style>
   </head>
