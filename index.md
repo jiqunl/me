@@ -18,7 +18,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 **[*Note to Perspective Students:*]** I am actively looking for self-motivated research and visiting students to join my Human-Computer Interaction and Recommendation group at OU and work on interesting cutting-edge problems in LLM design and evaluation, information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds and research interests:
 - Human-Computer Interaction, Interactive Information Retrieval/Recommendation, UX Design/Research, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
 - Machine Learning (ML) and Natural Language Processing (NLP).
-- Large Language Model (LLM) development and evaluation; Generative Artificial Intelligence (GenAI). 
+- Large Language Model (LLM) development and evaluation; LLMs-as-Judges; Generative Artificial Intelligence (GenAI). 
 - Societal Impacts of Intelligent Information Systems, especially in healthcare and lifelong learning; Social and Community Informatics.
 
 If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV and a brief description of your previous research experiences & current research interests.
