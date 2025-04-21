@@ -3,9 +3,9 @@
 
 I am an **Assistant Professor of Data Science** and **Affiliated Assistant Professor of Psychology** at the University of Oklahoma (OU). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
 
-My research focuses on the intersection of Human-centered Information Retrieval, Machine Learning, and Cognitive Psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in search and recommendation, user education and intelligent nudging. My recent projects focus on: 
-- **Psychology-Informed Intelligent Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-AI interactions and develop useful, proactive IR, recommendation, and generative information systems.
-- **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and personal assistants in critical application domains, such as health and medical information access, healthcare, K-12 education, online privacy and secruity, and business decision-making.
+My research focuses on the intersection of Large Language Model (LLM), Information Retrieval, and Cognitive Psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in conversational information retrieval and generation, proactive recommendation, and intelligent nudging. My recent projects focus on: 
+- **Psychology-Informed Language Models and Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-LLM interactions and develop proactive IR, recommendation, and generative information systems.
+- **Bias-Aware, Ethical, and Socially Responsible AI**: evaluate and enhance the FATE (fairness, accountability, transparency, and ethics) aspects of AI-assisted chatbots and language models in critical application domains, such as health and medical information access and judgment, K-12 education, online privacy and secruity, and business decision-making.
 
 Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Microsoft](https://www.microsoft.com/en-us/research/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1ApcWui7IOUNH5hgWADsx3znpD04jXCtm/view?usp=share_link).
 
@@ -15,9 +15,10 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 [[Twitter](https://twitter.com/JiqunL)]
 
 
-**[*Note to Perspective Students:*]** I am actively looking for self-motivated research and visiting students to join my Human-Computer Interaction and Recommendation group at OU and work on interesting cutting-edge problems in information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds and research interests:
+**[*Note to Perspective Students:*]** I am actively looking for self-motivated research and visiting students to join my Human-Computer Interaction and Recommendation group at OU and work on interesting cutting-edge problems in LLM design and evaluation, information retrieval and intelligent systems. Research opportunities are available at both undergraduate and graduate levels. I am especially interested in students with **any** of the following backgrounds and research interests:
 - Human-Computer Interaction, Interactive Information Retrieval/Recommendation, UX Design/Research, Cognitive Psychology or Experimental Economics using quantitative or qualitative methods (or both);
-- Machine Learning, Natural Language Processing (NLP), and Generative Artificial Intelligence (AI).
+- Machine Learning (ML) and Natural Language Processing (NLP).
+- Large Language Model (LLM) development and evaluation; Generative Artificial Intelligence (GenAI). 
 - Societal Impacts of Intelligent Information Systems, especially in healthcare and lifelong learning; Social and Community Informatics.
 
 If you are interested, please email me at (jiqunliu@ou.edu) with your CV and a brief description of your previous research experiences & current research interests.
