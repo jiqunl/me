@@ -12,6 +12,20 @@
     <![endif]-->
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <style>
+        /* 1. 头像左浮动，并在右侧／底部留白 */
+    header img {
+      float: left;
+      max-width: 240px;      /* 根据实际头像宽度调整 */
+      margin: 0 1.5rem 1.5rem 0;  
+      /* 上 0，右 1.5rem，底 1.5rem，左 0 */
+    }
+
+    /* 2. 正文区整体右移，避开头像加的浮动 */
+    .wrapper section {
+      margin-left: calc(240px + 1.5rem) !important;
+      /* = 头像宽度 + margin-right，确保正文不跑到头像下面去 */
+    }
+    
   .wrapper {
       /* 原来可能是 max-width: 600px；我们把它调成更大的数 */
       max-width: 1200px !important;  /* 或者你想要的任意像素值 */
