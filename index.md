@@ -51,6 +51,7 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
+- **OU Summer AI Pilot Project Seed Funding:** Syllabi and activities for AI-assisted maker education: Design and evaluation ($9,964, PI: Yong Ju Jung, **co-PI: Jiqun Liu**). 
 - **Microsoft Research Award:** Functional fixedness evaluation in human-large language model (LLM) interaction ($20,000, **PI: Jiqun Liu**)
 - **FIP 2025:** Faculty Investment Program Award: Making mistakes like humans: Detecting biased judgments of artificial intelligence, University of Oklahoma Office of the Vice President for Research and Partnerships ($15,000, **PI: Jiqun Liu**)
 - **JFSF Summer 2024:** Junior Faculty Summer Fellowship Award: Measuring potential harms of AI manipulation: An exploratory study, Dodge Family Colledge of Arts and Sciences, University of Oklahoma ($7,000, **PI: Jiqun Liu**)
