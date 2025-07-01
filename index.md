@@ -1,7 +1,7 @@
 ### About Me
 *How to pronounce my name?* **Jiqun [Jee-chwen] Liu [Lee-oo]**
 
-I am an **Assistant Professor, Data Science** and **Affiliated Assistant Professor, Psychology** at the University of Oklahoma (OU). I am also an **affiliated faculty member** at the [Data Institute for Societal Challenges](https://www.ou.edu/disc). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
+I am an **Associate Professor, Data Science/SLIS** and **Affiliated Faculty, Psychology** at the University of Oklahoma (OU). I am also an **affiliated faculty member** at the [Data Institute for Societal Challenges](https://www.ou.edu/disc). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
 
 My research focuses on the intersection of Large Language Model (LLM), Information Retrieval, and Cognitive Psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in conversational information retrieval and generation, proactive recommendation, and intelligent nudging. My recent projects focus on: 
 - **Psychology-Informed Language Models and Information Systems**: investigate the impact of users' biases, heuristics, and expectations on human-LLM interactions and develop proactive IR, recommendation, and generative information systems.
