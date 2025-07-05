@@ -67,6 +67,10 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - **JFF Summer 2021:** Junior Faculty Fellowship Program Award: Learning task type and states for adaptively supporting users in complex search tasks, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
 
 ### Publications
+#### Recent Work on Arxiv
+- Zhang, Y., An, J., Wang, Ben., Zhang, Y. & **Liu, J.**. (2025). Human-centered explainability in interactive information systems: A survey. [[paper](https://arxiv.org/abs/2507.02300v1)].
+- Dewan, M., **Liu, J.**, Gautam, A. & Shah, C. (2025). LLM-driven usefulness judgment for Web search evaluation. [[paper](https://arxiv.org/pdf/2504.14401)].
+- **Liu, J.**, Karimnazarov, J. & White, R. (2025). Trapped by expectations: Functional fixedness in LLM-enabled chat search. [[paper](https://arxiv.org/pdf/2504.02074)]. 
 #### Book
 - **Liu, J.** (2023). *A behavioral economics approach to interactive information retrieval: Understanding and supporting boundedly rational users.* Springer Nature. [[book](https://link.springer.com/book/9783031232282)]
 - **Liu, J.** & Shah, C. (2019). *Interactive IR user study design, evaluation, and reporting*. Synthesis Lecture on Information Concepts, Retrieval, and Services. Morgan & Claypool Publishers. [[book](https://www.morganclaypool.com/doi/10.2200/S00923ED1V01Y201905ICR067)]
