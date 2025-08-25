@@ -4,7 +4,7 @@
 I am an **Associate Professor, Data Science/SLIS** and **Affiliated Faculty, Psychology** at the University of Oklahoma (OU). I am also an **affiliated faculty member** at the [Data Institute for Societal Challenges](https://www.ou.edu/disc). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. 
 
 My research focuses on the intersection of Large Language Model (LLM), Information Retrieval (IR), and Cognitive Psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in conversational information retrieval and generation, proactive recommendation, and intelligent nudging. My recent projects focus on: 
-- **Psychology-Informed Language Models and Information Systems**: investigate the impact of users' heuristics, mental shortcuts, and expectations on human-LLM interactions and develop proactive IR, recommendation, and generative information systems.
+- **Human-Centered Language Models and Intelligent Information Systems**: investigate the impact of users' heuristics, mental shortcuts, and expectations on human-LLM interactions and develop proactive IR, recommendation, and generative information systems.
 - **Cognitive Impacts of Generative AI**: evaluate the cognitive impact of LLMs and generative AI applications on individual users and teams, such as attention, biases in judgments, decision-making, and cognitive loads.
 - **Machine Psychology**: identify and evaluate the behavioral patterns and judgments, emergent capabilities, and mechanisms of AI models, and apply the learned knowledge in enhancing human-AI interactions. 
 
