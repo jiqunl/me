@@ -24,11 +24,12 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **ACM CHIIR 2026** I will serve as a Short Papers and Demo Chair at [*ACM CHIIR 2026*](https://chiir2026.github.io/). See you in Seattle!
 - **Short paper** "LLM-driven usefulness labeling for IR evaluation" accepted by [*SIGIR2025*](https://sigir2025.dei.unipd.it/)!
 - **Full paper** "Boundedly rational searchers interacting with medical misinformation: Characterizing context-dependent decoy effects on credibility and usefulness evaluation in sessions" accepted by [*CHIIR2025*](https://chiir2025.github.io/)! 
 - **Journal paper** "Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability" accepted by [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois)!
 - **Workshop**: We are organizing the IWILDS'25 - The 5th Internation Workshop on Investigating Learning during Web Search at [ACM WSDM 2025](https://www.wsdm-conference.org/2025/). Please join us in discussions on future learning in search and AI-enabled chat!
-- Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
+- **ACM TOIS** Happy to serve as an Associate Editor for [*ACM Transactions on Information Systems*](https://dl.acm.org/journal/tois/editorial-board)!
 - **Award**: Our proposal (with Dr. Yong Ju Jung) titled "Enhancing AI Literacy Through Maker-Based Learning with Generative AI" received Elfreda A. Chatman Research Award from [ASIS&T](https://www.asist.org/am24/) SIG USE in 2024!
 - **Tutorial**: We are organizing a tutorial on *Evaluating Cognitive Biases in Conversational and Generative IIR* at [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial!
 - **Full paper**: "AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment" accepted by [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Link to our arxiv paper [here](https://arxiv.org/pdf/2409.16022). 
