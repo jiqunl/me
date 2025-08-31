@@ -47,12 +47,12 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - I will be serving as the Chair-elect for [ASIS&T SIG AI in 2022](https://www.asist.org/sig/sigai/)!
 - **Grant:** My project "CRII:III: A bias-aware approach to modeling users in interactive information retrieval" is funded by **National Science Foundation (NSF)**! The project's homepage is [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106152&HistoricalAwards=false).
 - **Journal paper** "Deconstructing search tasks in interactive information retrieval: A systematic review of task dimensions and predictors" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management)
-- **Full paper** "Interest development, knowledge learning, and interactive IR: Toward a state-based approach to search as learning" accepted by [CHIIR2021](https://acm-chiir.github.io/chiir2021/)
 - I serve as a workshop co-Chair for [iConference 2021](https://ischools.org/iConference-2021-Preview).
 - **Full paper** "Investigating reference-dependence effects on user search interaction and satisfaction: A behavioral economics perspective" accepted by [SIGIR2020](https://sigir.org/sigir2020/).
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
+- **IMLS National Leadership Grant:** Guaging library needs for integrating Generative AI into children's maker-based learning ($150,000, **PI: Jiqun Liu**, co-PI: Yong Ju Jung). 
 - **OU Summer AI Pilot Project Seed Funding:** Syllabi and activities for AI-assisted maker education: Design and evaluation ($9,964, PI: Yong Ju Jung, **co-PI: Jiqun Liu**). 
 - **Microsoft Research Award:** Functional fixedness evaluation in human-large language model (LLM) interaction ($20,000, **PI: Jiqun Liu**)
 - **FIP 2025:** Faculty Investment Program Award: Making mistakes like humans: Detecting biased judgments of artificial intelligence, University of Oklahoma Office of the Vice President for Research and Partnerships ($15,000, **PI: Jiqun Liu**)
