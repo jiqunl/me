@@ -24,6 +24,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **IP&M** Happy to serve as an Associate Editor for [*Information Processing and Management*](https://www.sciencedirect.com/journal/information-processing-and-management)!
 - **Grant:** Our project titled "Guaging library needs for integrating Generative AI into children's maker-based learning" is funded by **Institute of Museum and Library Services (IMLS)** (NLG Planning grant: $150,000, **PI: Jiqun Liu**, co-PI: Yong Ju Jung). 
 - **ACM CHIIR 2026** I will serve as a Short Papers and Demo Chair at [*ACM CHIIR 2026*](https://chiir2026.github.io/). See you in Seattle!
 - **Short paper** "LLM-driven usefulness labeling for IR evaluation" accepted by [*SIGIR2025*](https://sigir2025.dei.unipd.it/)!
