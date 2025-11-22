@@ -24,6 +24,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **ACM SIGIR Forum** Happy to serve as an Editor for [*SIGIR Forum*](https://sigir.org/forum/editorial-policy-and-forum-editors/)!
 - **IP&M** Happy to serve as an Associate Editor for [*Information Processing and Management*](https://www.sciencedirect.com/journal/information-processing-and-management)!
 - **Grant:** Our project titled "Guaging library needs for integrating Generative AI into children's maker-based learning" is funded by **Institute of Museum and Library Services (IMLS)** (NLG Planning grant: $150,000, **PI: Jiqun Liu**, co-PI: Yong Ju Jung). 
 - **ACM CHIIR 2026** I will serve as a Short Papers and Demo Chair at [*ACM CHIIR 2026*](https://chiir2026.github.io/). See you in Seattle!
@@ -37,7 +38,7 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - **Full paper**: "AI can be cognitively biased: An exploratory study on threshold priming in LLM-based batch relevance assessment" accepted by [SIGIR-AP2024](https://www.sigir-ap.org/sigir-ap-2024/). Link to our arxiv paper [here](https://arxiv.org/pdf/2409.16022). 
 - **Tutorial**: We are organizing a tutorial on *Testing, Mitigating, and Accounting for Cognitive Biases in Search Experiments* at [ACM SIGIR 2024](https://sigir-2024.github.io/). Please access our tutorial materials through the ACM SIGIR slack channel: sigir24-searchunderuncertainty-tutorial! 
 - **Tutorial**: We are organizing a tutorial on *Modeling Search Interaction with Behavioral Economics* at [ACM CHIIR 2024](https://chiir2024.github.io/). The tutorial website is [online](https://beiir.github.io/)!
-- **Full paper** "Characterizing and early predicting user performance for adaptive search path recommendation" accepted by [ASIS&T 2023](https://www.asist.org/am23/) and received 2023 SIG USE Best Information Behavior Conference Paper Award.
+- **Full paper** "Characterizing and early predicting user performance for adaptive search path recommendation" accepted by [ASIS&T 2023](https://www.asist.org/am23/) and received 2023 **SIG USE Best Information Behavior Conference Paper Award**.
 - **Journal paper** "Constructing and meta-evaluating state-aware evaluation metrics for interactive search systems" accepted by [Information Retrieval Journal](https://www.springer.com/journal/10791).
 - **Journal paper** "Investigating the role of in-situ user expectations in Web search" accepted by [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
 - **Full paper** "A reference-dependent model for Web search evaluation: Understanding and measuring the experience of boundedly rational users" accepted by [ACM Web Conference 2023](https://www2023.thewebconf.org/). 
