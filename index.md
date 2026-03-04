@@ -8,7 +8,7 @@ My research focuses on the intersection of Large Language Model (LLM), Informati
 - **Cognitive Impacts of Generative AI**: evaluate the cognitive impact of LLMs and generative AI applications on individual users and teams, such as attention, biases in judgments, decision-making, and cognitive loads.
 - **Machine Psychology**: identify and evaluate the behavioral patterns and judgments, emergent capabilities, and mechanisms of AI models, and apply the learned knowledge in enhancing human-AI interactions. 
 
-Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Microsoft](https://www.microsoft.com/en-us/research/), [Institute of Museum and Library Services](https://www.imls.gov/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1ETokamat8yFOmgxJnNEQysYsBzfijma1/view?usp=share_link).
+Our work is possible thanks to [National Science Foundation](https://www.nsf.gov/), [Microsoft](https://www.microsoft.com/en-us/research/), [Institute of Museum and Library Services](https://www.imls.gov/), [Data Institute for Societal Challenges](https://www.ou.edu/disc), and [OU VPRP](https://www.ou.edu/research-norman). My recent CV can be found at [here](https://drive.google.com/file/d/1UBp38mztSNIN3JsWSW3ruYcvj7lpJ3cl/view?usp=drive_link).
 
 [[GoogleScholar](https://scholar.google.com/citations?user=SSkPeogAAAAJ&hl=en)]
 [[DBLP](https://dblp.uni-trier.de/pid/196/0415.html?view=by-type)]
