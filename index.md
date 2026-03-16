@@ -71,7 +71,8 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - **JFF Summer 2021:** Junior Faculty Fellowship Program Award: Learning task type and states for adaptively supporting users in complex search tasks, University of Oklahoma Office of the Vice President for Research and Partnerships ($7,000, **PI: Jiqun Liu**)
 
 ### Publications
-#### Recent Work on Arxiv
+#### Selected Recent Work on Arxiv
+- Dima, V.D., **Liu, J.**, Yang, G.H. (2026). FrameRef: A framing dataset and simulation testbed for modeling bounded rational information health. [[paper](https://arxiv.org/pdf/2602.15273)]. 
 - Zhang, Y., An, J., Wang, Ben., Zhang, Y. & **Liu, J.**. (2025). Human-centered explainability in interactive information systems: A survey. [[paper](https://arxiv.org/abs/2507.02300v1)].
 - Dewan, M., **Liu, J.**, Gautam, A. & Shah, C. (2025). LLM-driven usefulness judgment for Web search evaluation. [[paper](https://arxiv.org/pdf/2504.14401)].
 - **Liu, J.**, Karimnazarov, J. & White, R. (2025). Trapped by expectations: Functional fixedness in LLM-enabled chat search. [[paper](https://arxiv.org/pdf/2504.02074)]. 
