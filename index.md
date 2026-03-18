@@ -25,6 +25,8 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 
 #### Recent News:
 - **New Platform Released!!**: We are excited to release **ECHO**, an open, low-code platform that enables researchers across IR, HCI, social sciences, and humanities to run reproducible user studies and behavioral experiments involving Conversational AI with little to no coding. Our tutorial demo video is available [here](https://drive.google.com/file/d/1T16fFcsGkQIPIIHZsaMCFw8yEAn2V5ER/view). [[*Github Repo*](https://github.com/OUHCIRGroup/echo)][[*ArXiv Paper*](https://arxiv.org/pdf/2602.10295)].
+- **ACM/IEEE Joint Conference on Digital Libraries (JCDL2026)**: I will serve as a Program co-Chair at [*JCDL2026*](https://2026.jcdl.org/organization/). See you in Dallas!
+- **ACM CHIIR Steering Committee**: Happy to join the steering committee of ACM SIGIR Conference on Human Information Interaction and Retrieval ([CHIIR](https://chiir.org/committee.php))!
 - **ACM SIGIR Forum**: Happy to serve as an Editor for [*SIGIR Forum*](https://sigir.org/forum/editorial-policy-and-forum-editors/)!
 - **IP&M**: Happy to serve as an Associate Editor for [*Information Processing and Management*](https://www.sciencedirect.com/journal/information-processing-and-management)!
 - **Grant:** Our project titled "Guaging library needs for integrating Generative AI into children's maker-based learning" is funded by **Institute of Museum and Library Services (IMLS)** (NLG Planning grant: $150,000, **PI: Jiqun Liu**, co-PI: Yong Ju Jung). Stay tuned [here](https://ouhcirgroup.github.io/projects/imls/) for our ongoing project updates!
