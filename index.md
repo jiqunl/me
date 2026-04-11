@@ -57,6 +57,7 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - **Book** "[Interactive IR user study design, evaluation, and reporting](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1418)" published by Morgan & Claypool Publishers!
 
 ### Grants & Awards
+- **DFCAS Collaborative Research Faculty Fellowship (CRFF):** Development and feasibility evaluation of a Generative AI chatbot intervention to prevent intimate partner violence (IPV) in young adults: A mixed method study. PI: Yu Lu (Health Sciences), **co-PI: Jiqun Liu**.
 - **IMLS National Leadership Grant:** Guaging library needs for integrating Generative AI into children's maker-based learning ($150,000, **PI: Jiqun Liu**, co-PI: Yong Ju Jung). 
 - **OU Summer AI Pilot Project Seed Funding:** Syllabi and activities for AI-assisted maker education: Design and evaluation ($9,964, PI: Yong Ju Jung, **co-PI: Jiqun Liu**). 
 - **Microsoft Research Award:** Functional fixedness evaluation in human-large language model (LLM) interaction ($20,000, **PI: Jiqun Liu**)
