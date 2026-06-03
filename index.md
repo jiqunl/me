@@ -91,7 +91,7 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 #### Refereed Journal Article
 - **Liu, J.** & He, J. (2026). The decoy dilemma in online medical information evaluation: A comparative study of credibility assessments by LLM and human judges. *ACM Transactions on Interactive Intelligent Systems*. **(ACM TiiS)**
 - **Liu, J.** (2026). Bounded minds, generative machines: Envisioning conversational AI that works with human heuristics and reduces bias risk. *Communications of the ACM*. **(CACM)**
-- Lei, J., Hu, L., Bu, Y. & **Liu, J.** (2025). Understanding teams and productivity in information retrieval research: Academia, industry, and cross-community collaborations. *Journal of Data and Information Science* (JDIS).
+- Lei, J., Hu, L., Bu, Y. & **Liu, J.** (2025). Understanding teams and productivity in information retrieval research: Academia, industry, and cross-community collaborations. *Journal of Data and Information Science* **(JDIS)**.
 - Jiang, T., Li, W., & **Liu, J.** (2025). The Landscape of data reuse in interactive information retrieval: Motivations, sources, and evaluation of reusability. *Journal of the Association for Information Science and Technology*. **(JASIST)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.25020)]
 - Chen, N., **Liu, J.**, Fang, H., Luo, Y., Sakai, T. & Wu, X-M. (2025). Decoy effect in search interaction: Understanding user behavior and measuring system vulnerability. *ACM Transctions on Information Systems*. **(ACM TOIS)** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3708884)]
 - Zhang, Y. & **Liu, J.** (2024). Falling behind again? Characterizing and assessing older adults' algorithm literacy in interactions with video recommendations. *Journal of the Association for Information Science and Technology*. **(JASIST)** [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24960?af=R)]
@@ -108,6 +108,7 @@ If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV 
 - **Liu, J.** (2017). Toward a unified model of human information behavior: An equilibrium perspective. *Journal of Documentation*, 73(4), 666-688. **(JDoc)** [[Paper](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2016-0080/full/html)]
 
 #### Refereed Conference Paper
+- Dewan, M., **Liu, J.**, Gautam, A., & Shah, C. (2026). LLM-Driven Usefulness Judgment for Web Search Evaluation. In *Proceedings of the 2026 ACM Conference on Innovative Concept and Theories in Information Retrieval.* **(ACM ICTIR 2026)**
 - He, J. & **Liu, J.** (2026). Not all transparency is equal: Source presentation effects on attention, interaction, and persuasion in conversational search. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. New York, NY: ACM. **(CHIIR2026)**. 
 - Jiang, T., Li, W., & **Liu, J.** (2026). Improving data reusability in interactive information retrieval: Insights from the community. In *Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval*. New York, NY: ACM. **(CHIIR2026)**.
 - Dewan, M., **Liu, J.**, & Shah, C. (2026). TRUE: A reproducible framework for LLM-driven relevance judgment in information retrieval. In *Proceedings of the 19th ACM International Conference on Web Search and Data Mining*. Boise, Idaho. **(WSDM2026)**.
