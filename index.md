@@ -1,10 +1,7 @@
 ### About Me
 *How to pronounce my name?* **Jiqun [Jee-chwen] Liu [Lee-oo]**
 
-I am an **Associate Professor, Data Science/SLIS** and **Affiliated Faculty, Psychology** at the University of Oklahoma (OU). I am also an **affiliated faculty member** at the [Data Institute for Societal Challenges](https://www.ou.edu/disc). I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. I also serve as Associate Editor for [Information Processing and Management (IP&M)](https://www.sciencedirect.com/journal/information-processing-and-management) and [ACM Transactions on Information Systems (ACM TOIS)](https://dl.acm.org/journal/tois), and a co-Editor for [SIGIR Forum](https://sigir.org/forum/). 
-<p style="color:#b00020; font-weight:700; font-size:1.08em; margin-top:8px;">
-In Fall 2026, I will join the University of Wisconsin–Milwaukee iSchool as an Associate Professor in AI and Data Science.
-</p>
+I am an **Associate Professor, Data Science/SLIS** in the School of Information Studies at the University of Wisconsin-Milwaukee. I hold a PhD in Information Science from Rutgers iSchool. I currently work with my students at the [Human-Computer Interaction and Recommendation (HCIR) Lab](https://ouhcirgroup.github.io/) at OU. I also serve as Associate Editor for [Information Processing and Management (IP&M)](https://www.sciencedirect.com/journal/information-processing-and-management) and [ACM Transactions on Information Systems (ACM TOIS)](https://dl.acm.org/journal/tois), and a co-Editor for [SIGIR Forum](https://sigir.org/forum/). 
 
 My research focuses on the intersection of Large Language Model (LLM), Information Retrieval (IR), and Cognitive Psychology, and seeks to apply the knowledge learned about boundedly rational users interacting with information in conversational information retrieval and generation, proactive recommendation, and intelligent nudging. My recent projects focus on: 
 - **Human-Centered Language Models and Intelligent Information Systems**: investigate the impact of users' heuristics, mental shortcuts, and expectations on human-LLM interactions and develop proactive IR and generative information systems.
@@ -24,7 +21,7 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 - Machine Learning (ML) and Natural Language Processing (NLP).
 - Large Language Model (LLM) development and evaluation; LLMs-as-Judges; Generative Artificial Intelligence (GenAI). 
 
-If you are interested, please email me at (**jiqunliu AT ou.edu**) with your CV and a brief description of your previous research experiences & current research interests.
+If you are interested, please email me at (**jiqunliu AT uwm.edu**) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
 - **New Platform Released!!**: We are excited to release **ECHO**, an open, low-code platform that enables researchers across IR, HCI, social sciences, and humanities to run reproducible user studies and behavioral experiments involving Conversational AI with little to no coding. Our tutorial demo video is available [here](https://drive.google.com/file/d/1T16fFcsGkQIPIIHZsaMCFw8yEAn2V5ER/view). [[*Github Repo*](https://github.com/OUHCIRGroup/echo)][[*ArXiv Paper*](https://arxiv.org/pdf/2602.10295)][[Media](https://ou.edu/news/articles/2026/may/free-software-for-researching-human-ai-interactions)].
