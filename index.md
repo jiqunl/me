@@ -24,6 +24,8 @@ Our work is possible thanks to [National Science Foundation](https://www.nsf.gov
 If you are interested, please email me at (**jiqunliu AT uwm.edu**) with your CV and a brief description of your previous research experiences & current research interests.
 
 #### Recent News:
+- **Communications of the ACM** New article: "Bounded minds, generative machines: Envisioning conversational AI that works with human heuristics and reduces bias risk" published at Communications of the ACM! [[Article](https://cacm.acm.org/opinion/bounded-minds-generative-machines/)]
+- **NeurIPS 2026** Full paper "Stability regimes for framing-sensitive fine-tuning in language models" accepted by NeurIPS 2026!
 - **New Platform Released!!**: We are excited to release **ECHO**, an open, low-code platform that enables researchers across IR, HCI, social sciences, and humanities to run reproducible user studies and behavioral experiments involving Conversational AI with little to no coding. Our tutorial demo video is available [here](https://drive.google.com/file/d/1T16fFcsGkQIPIIHZsaMCFw8yEAn2V5ER/view). [[*Github Repo*](https://github.com/OUHCIRGroup/echo)][[*ArXiv Paper*](https://arxiv.org/pdf/2602.10295)][[Media](https://ou.edu/news/articles/2026/may/free-software-for-researching-human-ai-interactions)].
 - **ACM/IEEE Joint Conference on Digital Libraries (JCDL2026)**: I will serve as a Program co-Chair at [*JCDL2026*](https://2026.jcdl.org/organization/). See you in Dallas!
 - **ACM CHIIR Steering Committee**: Happy to join the steering committee of ACM SIGIR Conference on Human Information Interaction and Retrieval ([CHIIR](https://chiir.org/committee.php))!
